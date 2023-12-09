@@ -1,0 +1,29 @@
+body, html {
+  margin: 0;
+  padding: 20px;
+  height: 100%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.marquee h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
